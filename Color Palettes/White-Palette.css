@@ -1,5 +1,7 @@
-#ffffff
-#f6f6f6
-#ececec
-#e1e1e1
-#d0d0d0
+:root {
+  --White-Color: #ffffff;
+  --A-Color: #f6f6f6;
+  --A-Color: #ececec;
+  --A-Color: #e1e1e1;
+  --A-Color: #d0d0d0;
+}
